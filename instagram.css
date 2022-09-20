@@ -1,0 +1,30 @@
+.perfil {
+    width: 60px;
+    border-radius: 64px;
+}
+
+.postagem {
+    width: 500px;
+}
+
+.botoes {
+    width: 30px;
+}
+
+.hora {
+    color: gray;
+}
+
+.nome-traducao {
+    color: black;
+}
+
+.emote {
+    width: 30px;
+}
+
+.comentario {
+    color: gray;
+    border: 2px solid;
+    width: 500px;
+}
